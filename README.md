@@ -31,6 +31,6 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&locale=en" alt="username" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzanhasyimm&show_icons=true&locale=en" alt="fauzanhasyimm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=username&" alt="username" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauzanhasyimm&" alt="fauzanhasyimm" /></p>
